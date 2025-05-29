@@ -1,4 +1,4 @@
-# AnaPAtil8.github.io
+# AnaPatil8.github.io
 👋 Hi, I'm Bhavana Patil (Ana)
 
 🎯 Senior Analyst @ Molina Healthcare | AWS AI Practitioner | Data-Driven Decision Maker | Machine Learning Enthusiast
