@@ -1,7 +1,7 @@
 # AnaPatil8.github.io
 👋 Hi, I'm Bhavana Patil (Ana)
 
-🎯 Senior Analyst @ Molina Healthcare | AWS AI Practitioner | Data-Driven Decision Maker | Machine Learning Enthusiast
+🎯 Senior Analyst | AWS AI Practitioner | Data-Driven Decision Maker | Machine Learning Enthusiast
 
 ---
 
@@ -51,7 +51,6 @@ I’m a passionate Data Enthusiast with a strong background in uncovering action
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/bhavana-m-patil-245645159/]
-- 📧 Email: [bhavanampatil1@gmail.com]
 
 ---
 
